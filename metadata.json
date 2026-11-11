@@ -1,0 +1,6 @@
+{
+  "name": "Nerdify",
+  "description": "Smart agentic AI study companion with interactive PDF highlighting and annotation, contextual Ask Nerdify AI tutor buddy, Quiz Buster test question generator, Pomodoro time tracker, and multi-subject task slots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
